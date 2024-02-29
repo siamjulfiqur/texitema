@@ -1,0 +1,360 @@
+/* font link */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* common iten start */
+body{
+    font-family: 'Lato', sans-serif;
+    font-size:16px ;
+    font-weight: 400;
+    background-color: blue;
+    
+}
+/* common item end */
+/* header start  */
+header{
+  background-color: blue;
+}
+.siam{
+  padding: 25px 25px;
+  background-color: blue;
+}
+.logo{}
+
+.menu{
+  
+ 
+}
+.menu ul li a{
+  color: aliceblue;
+  padding: 0 25px !important;
+
+}
+.menu ul li a:hover{
+  color:  rgb(150, 228, 237);
+}
+.book{
+  padding: 15px 15px;
+  background-color: rgb(25, 190, 223) !important;
+  color: aliceblue;
+}
+
+.book:hover{
+  background-color: rgb(150, 228, 237) !important;
+}
+/* header end*/
+
+/* banner start */
+.banner{
+  background-color: rgb(15, 15, 244);
+}
+.bnr{
+  padding: 110px 0 160px 0;
+}
+.topb{
+  color: rgb(235, 220, 90);
+}
+.topm{
+  font-size: 49px;
+  font-weight: 700;
+  padding: 20px 200px 20px 0;
+  color:aliceblue ;
+}
+.prab{
+padding: 0 170px 68px 0;
+color: aliceblue;
+}
+.bok{
+  padding: 15px 30px;
+  background-color: rgb(25, 190, 223) !important;
+  color: aliceblue;
+}
+.bok:hover{
+  background-color: rgb(150, 228, 237) !important;
+}
+.bimg{
+  padding: 60px 0 0 0;
+}
+.bimg img{}
+/* banner end */
+
+/* about us start */
+.about{
+  background-color: rgb(15, 15, 244);
+}
+.abimg{}
+.abimg img{}
+.ab_text{
+  text-align: center;
+  padding: 0px 0px 0px 0px ;
+}
+.abpra{
+  color: rgb(235, 220, 90);
+}
+.abh2{
+  font-size: 40px;
+  font-weight: 700;
+  color: aliceblue;
+  padding: 15px 70px 20px 70px;
+}
+.abpra2{
+  color: aliceblue;
+  padding: 0 100px 47px 100px;
+}
+ /*-- counter --*/
+  .new{}
+ .conpd{
+  padding:0px 0 0 0 ;
+ }
+ .counter{
+  font-size: 35px;
+  font-weight: 700;
+  color: rgb(17, 22, 22) !important; 
+ }
+.counh5{
+  color: rgb(235, 220, 90);
+}
+ /* about us end */
+
+ /* overly_start */
+ .box{
+	position: relative;
+	width: 100%;
+}
+.box img{
+	width: 100%;
+	display: block;
+}
+.overlay{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgb(20, 78, 227);
+	opacity: 0;
+	transition: .4s;
+}
+.overlay:hover{
+	opacity: .8;
+}
+.overlay h2{
+	position: absolute;
+	top: 90%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	margin: 0;
+	font-size: 35px;
+	color: #fefefd;
+	text-align: center;
+	width: 225px;
+}
+
+ /* over_end */
+ /* service start */
+ .service{
+  background-color: blue;
+ }
+ .sev_text{
+  padding-top: 150px;
+  text-align: center;
+  background-color: blue;
+ }
+ .sevh5{
+  padding-bottom: 30px;
+  color: rgb(235, 220, 90);
+ }
+ .sev2{
+  padding: 0 0 20px 0;
+  font-size: 50px;
+  font-weight: 700;
+  color: #fefefd;
+ }
+ .sevp{
+  padding: 0px 250px 60px 250px;
+  color: #fefefd;
+ }
+ .sevt{
+  background-color: blue !important;
+  padding: 30px 0;
+ }
+ .sevimg{
+  transition: 0.5s;
+ }
+ .sevimg img:hover{transform:scale(1.03);}
+ .sevth2{
+  font-size: 25px;
+  font-weight: 700;
+  color: #fefefd;
+ }
+ .sevtp{
+  padding: 15px 0;
+  color: #fefefd;
+ }
+ .sevtp2{
+  color: rgb(234, 218, 74);
+ }
+ .sevtp2:hover{
+  color:rgb(171, 155, 12) ;
+ }
+
+/* service end */
+/* contact start */
+.contact{
+  padding: 75px 0 0 0;
+  background-color: blue;
+}
+.context{
+  padding: 10px 0 160px;
+}
+.conh4{
+  color: rgb(234, 218, 74);
+}
+.conh2{
+  font-size: 50px;
+  font-weight: 700;
+  padding: 40px 0 20px 0;
+  color: #fefefd;
+}
+.conp{
+  color: #fefefd;
+}
+.conth2{
+  padding: 40px 0 20px 0;
+  border-bottom: 1px solid white;
+  color: #fefefd;
+}
+.office1, .office2, .office3{
+  padding: 10px 0 0 0;
+  color:rgb(234, 218, 74) ;
+}
+.office1 h4 a{
+  font-size: 18px;
+color: #f3ecec;
+text-decoration: none;
+  
+}
+.office2 h4 a{
+  font-size: 18px;
+  color: #f3ecec;
+  text-decoration: none;
+    
+  }
+.office3 h4 a{
+  font-size: 18px;
+    color: #f3ecec;
+    text-decoration: none;
+      
+}
+/* contact form  */
+.formh4{
+  text-align: center;
+  padding: 0 0 5px 0;
+  color: #f3ecec;
+}
+.form-group{
+  padding: 0 0 10px 0;
+}
+#contact{
+  background-color:blue;
+  font-family: 'Roboto', sans-serif;
+}
+
+#contact .well{
+  margin-top:30px;
+  border-radius:0;
+}
+
+#contact .form-control{
+  background-color: rgb(52, 212, 223);
+  color: #1e1e1e;
+  border-radius: 0;
+  border:2px solid #1e1e1e;
+}
+
+#contact button{
+  background-color:rgb(25, 190, 223) !important ;
+  border-radius:0;
+  border:2px solid #1e1e1e;
+}
+#contact button:hover{
+background-color:rgb(150, 228, 237) !important;
+}
+
+#contact .row{
+  margin-bottom:30px;
+}
+
+@media (max-width: 768px) { 
+  #contact iframe {
+      margin-bottom: 15px;
+  }
+  
+}
+/* contact end  */
+/* blog start */
+.blog{
+  padding-bottom: 60px;
+}
+.blogtext{
+  padding-top: 60px;
+  text-align: center;
+}
+.blgh4{
+  color: rgb(234, 218, 74);
+}
+.blgh2{
+  font-size: 50px;
+  font-weight: 700;
+  padding: 25px 0 30px 0;
+  color:#f3ecec ;
+}
+.blgp{
+  padding: 0 250px 0 250px;
+  color:#fefefd ;
+}
+/* blog col */
+.blgimg{
+  padding: 50px 0 0 0;
+}
+.bltext{
+  padding: 30px 0 30px 0;
+}
+.blh2{
+  padding:0 100px 20px 0 ;
+  color: #f3ecec;
+}
+.blh2:hover{
+color: rgb(233, 214, 45); 
+}
+.blp{
+  padding: 0 60px 0 0;
+  color: #f3ecec;
+}
+/* blog end */
+
+/* footer start */
+footer
+{background-color: #010101; padding-bottom: 60px;}
+.cnumber
+{}
+.cnumber address
+{color: white;}
+.mpds
+{}
+.mpds p a
+{color: white; text-decoration: none;}
+.ftend{
+  color: #fefefd;
+  padding: 0 0 10px 0;
+}
+.ftend:hover{
+  color: blue;
+}
+.fpt{
+  
+}
+/* footer end */
+

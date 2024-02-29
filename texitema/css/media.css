@@ -1,0 +1,638 @@
+/* Extra_small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) 
+{
+    /* header start */
+    .menu ul li a {
+        color: aliceblue;
+        padding: 5px 0px !important;
+    }
+        /* banner start */
+        .bnr {
+            padding: 40px 0 50px 0;
+            text-align: center;
+        }
+        .topm {
+            font-size: 30px;
+            font-weight: 500;
+            padding: 20px 50px 20px 50px;
+            color: aliceblue;
+        }
+        .prab {
+            padding: 0 40px 0 40px;
+            padding-bottom: 35px;
+            color: aliceblue;
+        }
+        .bimg {
+            padding: 0 0 0 0;
+          }
+     /* about us */
+    .counter {
+        font-size: 25px;
+        font-weight: 500;
+        background-color: rgb(16, 230, 230) !important;
+      }
+      .counh5 {
+        font-size: 15px;
+        color: rgb(235, 220, 90);
+        padding-bottom: 10px;
+      }
+      .abpra2 {
+        color: aliceblue;
+        padding: 0 0px 20px 0px;
+        font-size: 14px;
+      }
+      .abh2 {
+        font-size: 25px;
+        font-weight: 500;
+        color: aliceblue;
+        padding: 10px 20px 15px 20px;
+      }
+      .ab_text {
+        text-align: center;
+        padding: 20px 0px 0px 0px;
+      }
+      .overlay h2{
+        top: 82%;
+        }
+
+     /* service start */
+    .sev_text {
+        padding-top: 40px;
+        text-align: center;
+        background-color: blue;
+        }
+        .sevp {
+        font-size: 14px;
+        padding: 0px 10px 40px 10px;
+        color: #fefefd;
+        }
+        .sev2 {
+        padding: 0 15px 20px 15px;
+        font-size: 24px;
+        font-weight: 500;
+        color: #fefefd;
+        }
+        .sevh5 {
+            padding-bottom: 20px;
+            color: rgb(235, 220, 90);
+          }
+          .sevtp {
+            padding: 7px 0;
+            color: #fefefd;
+          }
+          .sevth2 {
+            font-size: 22px;
+            font-weight: 500;
+            color: #fefefd;
+          }
+          .sevt {
+            background-color: blue !important;
+            padding: 5px 0 30px 0;
+          }
+      /* contact us */
+    .conh2 {
+      font-size: 20px;
+      font-weight: 500;
+      padding: 17px 55px 15px 0;
+    }
+    .conth2 {
+      font-size: 20px;
+      font-weight: 500;
+      padding: 15px 0 10px 0;
+      }
+    .contact {
+      padding: 0 0 0 0;
+    }
+    .office1, .office2, .office3 {
+      padding: 5px 0 0 0;
+    }
+    .context {
+      padding: 10px 0 30px;
+    }
+    .conp {
+      padding: 0 20px 0 0px;
+    }
+    #contact {
+      background-color: blue;
+      font-family: 'Roboto', sans-serif;
+      padding: 20px 0 0px 0;
+    }
+    /* blog start */
+    .blogtext {
+    padding-top: 15px;
+    text-align: center;
+  }
+  .blh2 {
+    padding: 0 45px 10px 0;
+    color: #f3ecec;
+  }
+  .bltext {
+    padding: 10px 0 15px 0;
+  }
+  .blp {
+    padding: 0 0px 0 0;
+    color: #f3ecec;
+  }
+  .blgh2 {
+    font-size: 30px;
+    font-weight: 600;
+    padding: 15px 0 15px 0;
+  }
+  .blgp {
+    padding: 0 10px 0 10px;
+  }
+  .blgimg {
+    padding: 40px 0 0 0;
+  }
+  /* footer start  */
+      .ftend {
+        color: #fefefd;
+        padding: 0 0 10px 0;
+        font-size: 18px;
+      }
+      .ftend {
+        color: #fefefd;
+        padding: 0 0 10px 0;
+        font-size: 18px;
+        font-weight: 600;
+      }
+      .cnumber address {
+        color: white;
+        text-align: center;
+        padding-bottom: 25px;
+      }
+      .mpds {
+        text-align: center;
+      }
+
+
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) 
+{
+        /* header start */
+        .menu ul li a {
+            color: aliceblue;
+            padding: 5px 0px !important;
+        }
+    /* banner start */
+    .bnr {
+        padding: 60px 0 60px 0;
+        text-align: center;
+    }
+    .topm {
+        font-size: 35px;
+        font-weight: 600;
+        padding: 20px 120px 20px 120px;
+        color: aliceblue;
+    }
+    .prab {
+        padding: 0 94px 0 94px;
+        padding-bottom: 35px;
+        color: aliceblue;
+    }
+    .bimg {
+        padding: 20px 0 0 0;
+    }
+    /* about us */
+    .counter {
+        font-size: 25px;
+        font-weight: 500;
+        background-color: rgb(16, 230, 230) !important;
+      }
+      .counh5 {
+        font-size: 15px;
+        color: rgb(235, 220, 90);
+        padding-bottom: 10px;
+      }
+      .abpra2 {
+        color: aliceblue;
+        padding: 0 30px 30px 30px;
+      }
+      .abh2 {
+        font-size: 30px;
+        font-weight: 500;
+        color: aliceblue;
+        padding: 10px 70px 15px 70px;
+      }
+      .ab_text {
+        text-align: center;
+        padding: 20px 0px 0px 0px;
+      }
+          /* service start */
+    .sev_text {
+        padding-top: 40px;
+        text-align: center;
+        background-color: blue;
+        }
+        .sevp {
+        padding: 0px 50px 55px 50px;
+        color: #fefefd;
+        }
+        .sev2 {
+        padding: 0 40px 20px 40px;
+        font-size: 35px;
+        font-weight: 600;
+        color: #fefefd;
+        }
+        .sevtp {
+            padding: 7px 0;
+            color: #fefefd;
+          }
+          .sevth2 {
+            font-size: 22px;
+            font-weight: 500;
+            color: #fefefd;
+          }
+          .sevt {
+            background-color: blue !important;
+            padding: 10px 0 30px 0;
+          }
+    /* contact us */
+    .conh2 {
+      font-size: 25px;
+      font-weight: 600;
+      padding: 17px 146px 20px 0;
+    }
+    .conth2 {
+      font-size: 25px;
+      font-weight: 500;
+      padding: 15px 0 10px 0;
+      }
+    .contact {
+      padding: 30px 0 0 0;
+    }
+    .office1, .office2, .office3 {
+      padding: 8px 0 0 0;
+    }
+    .context {
+      padding: 10px 0 50px;
+    }
+    .conp {
+      padding: 0 193px 0 0px;
+    }
+    #contact {
+      background-color: blue;
+      font-family: 'Roboto', sans-serif;
+      padding: 40px 0 0px 0;
+    }
+         /* blog start */
+         .blogtext {
+          padding-top: 15px;
+          text-align: center;
+        }
+        .blh2 {
+          padding: 0 45px 10px 0;
+          color: #f3ecec;
+        }
+        .bltext {
+          padding: 20px 0 20px 0;
+        }
+        .blp {
+          padding: 0 29px 0 0;
+          color: #f3ecec;
+        }
+        .blgh2 {
+          font-size: 35px;
+          font-weight: 600;
+          padding: 15px 0 15px 0;
+        }
+        .blgp {
+          padding: 0 50px 0 50px;
+        }
+        .blgimg {
+          padding: 40px 0 0 0;
+        }
+    /* footer start  */
+  .ftend {
+    color: #fefefd;
+    padding: 0 0 10px 0;
+    font-size: 18px;
+  }
+  .ftend {
+    color: #fefefd;
+    padding: 0 0 10px 0;
+    font-size: 19px;
+    font-weight: 600;
+  }
+  .cnumber address {
+    color: white;
+    text-align: center;
+    padding-bottom: 25px;
+  }
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) 
+{
+    /* header start */
+    .menu ul li a {
+        color: aliceblue;
+        padding: 5px 0px !important;
+    }
+    /* banner start */
+    .bnr {
+        padding: 60px 0 60px 0;
+        text-align: center;
+    }
+    .topm {
+        font-size: 49px;
+        font-weight: 700;
+        padding: 20px 140px 20px 140px;
+        color: aliceblue;
+    }
+    .prab {
+        padding: 0 135px 0 135px;
+        padding-bottom: 35px;
+        color: aliceblue;
+    }
+    .bimg {
+        padding: 20px 0 0 0;
+    }
+    /* about start */
+    .abh2 {
+        font-size: 23px;
+        font-weight: 500;
+        color: aliceblue;
+        padding: 8px 170px 20px 171px;
+      }
+      .abpra2 {
+        color: aliceblue;
+        padding: 0 80px 30px 80px;
+      }
+      .counter {
+        font-size: 20px;
+        font-weight: 600;
+        background-color: rgb(16, 230, 230) !important;
+      }
+      .counh5 {
+        color: rgb(235, 220, 90);
+        font-size: 16px;
+      }
+    .ab_text {
+        text-align: center;
+        padding: 30px 0px 0px 0px;
+      }
+    /* service start */
+    .sev_text {
+        padding-top: 80px;
+        text-align: center;
+        background-color: blue;
+        }
+        .sevp {
+        padding: 0px 100px 60px 100px;
+        color: #fefefd;
+        }
+        .sev2 {
+        padding: 0 40px 20px 40px;
+        font-size: 45px;
+        font-weight: 700;
+        color: #fefefd;
+        }
+        /* contact us */
+    .conh2 {
+      font-size: 30px;
+      font-weight: 600;
+      padding: 15px 0 10px 0;
+      }
+    .conth2 {
+      font-size: 25px;
+      font-weight: 500;
+      padding: 15px 0 10px 0;
+      }
+    .contact {
+      padding: 40px 0 0 0;
+    }
+    .office1, .office2, .office3 {
+      padding: 8px 0 0 0;
+    }
+    .context {
+      padding: 10px 0 70px;
+    }
+    .conp {
+      padding: 0 193px 0 0px;
+    }
+    #contact {
+      background-color: blue;
+      font-family: 'Roboto', sans-serif;
+      padding: 40px 0 0px 0;
+    }
+     /* blog start */
+        .blogtext {
+          padding-top: 15px;
+          text-align: center;
+        }
+        .blh2 {
+          padding: 0 45px 10px 0;
+          color: #f3ecec;
+        }
+        .bltext {
+          padding: 25px 0 25px 0;
+        }
+        .blp {
+          padding: 0 29px 0 0;
+          color: #f3ecec;
+        }
+        .blgh2 {
+          font-size: 40px;
+          font-weight: 600;
+          padding: 20px 0 20px 0;
+        }
+        .blgp {
+          padding: 0 100px 0 100px;
+        }
+        .blgimg {
+          padding: 40px 0 0 0;
+        }
+      /* footer start  */
+        .ftend {
+          color: #fefefd;
+          padding: 0 0 10px 0;
+          font-size: 18px;
+        }
+        .ftend {
+          color: #fefefd;
+          padding: 0 0 10px 0;
+          font-size: 16px;
+          font-weight: 600;
+        }
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) 
+{
+    /* header start */
+    .menu ul li a {
+        color: aliceblue;
+        padding: 0 20px !important;
+    }
+    /* banner start */
+    .topm {
+        font-size: 49px;
+        font-weight: 700;
+        padding: 20px 63px 20px 0;
+        color: aliceblue;
+    }
+    .prab {
+        padding: 0 35px 60px 0;
+        color: aliceblue;
+      }
+      .bimg {
+        padding: 80px 0 0 0;
+      }
+      /* about us start */
+      .abh2 {
+        font-size: 30px;
+        font-weight: 600;
+        color: aliceblue;
+        padding: 6px 70px 10px 70px;
+      }
+      .abpra2 {
+        color: aliceblue;
+        padding: 0 30px 30px 30px;
+      }
+      .counter {
+        font-size: 20px;
+        font-weight: 600;
+        background-color: rgb(16, 230, 230) !important;
+      }
+      .counh5 {
+        color: rgb(235, 220, 90);
+        font-size: 16px;
+      }
+      .overlay h2{
+        top: 85%;
+        }
+        
+      /* service start */
+      .sev_text {
+        padding-top: 100px;
+        text-align: center;
+        background-color: blue;
+      }
+      .sevp {
+        padding: 0px 170px 60px 170px;
+        color: #fefefd;
+      }
+      .sev2 {
+        padding: 0 72px 20px 72px;
+        font-size: 50px;
+        font-weight: 700;
+        color: #fefefd;
+      }
+          /* contact us */
+    .conh2 {
+      font-size: 36px;
+      font-weight: 600;
+      padding: 15px 0 10px 0;
+      }
+    .conth2 {
+      font-size: 25px;
+      font-weight: 500;
+      padding: 15px 0 10px 0;
+      }
+    .contact {
+      padding: 70px 0 0 0;
+    }
+    .office1, .office2, .office3 {
+      padding: 8px 0 0 0;
+    }
+    .context {
+      padding: 10px 0 120px;
+    }
+    /* blog start */
+    .blogtext {
+      padding-top: 30px;
+      text-align: center;
+    }
+    .blh2 {
+      padding: 0 45px 15px 0;
+      color: #f3ecec;
+    }
+    .bltext {
+      padding: 25px 0 25px 0;
+    }
+    .blp {
+      padding: 0 29px 0 0;
+      color: #f3ecec;
+    }
+    /* foote start */
+    .ftend {
+      color: #fefefd;
+      padding: 0 0 10px 0;
+      font-size: 25px;
+    }
+
+}
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) 
+ {
+    /* banner start */
+    .topm {
+        font-size: 49px;
+        font-weight: 700;
+        padding: 20px 135px 20px 0;
+        color: aliceblue;
+      }
+      .prab {
+        padding: 0 94px 68px 0;
+        color: aliceblue;
+      }
+/* about us start */
+.abpra2 {
+    color: aliceblue;
+    padding: 0 80px 50px 80px;
+  }
+  .abh2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: aliceblue;
+    padding: 0px 70px 10px 70px;
+  }
+  .counter {
+    font-size: 30px;
+    font-weight: 700;
+    background-color: rgb(16, 230, 230) !important;
+  }
+  .overlay h2{
+    top: 88%;
+    }
+
+    /* service start */
+    .sevp {
+        padding: 0px 200px 60px 200px;
+        color: #fefefd;
+      }
+    /* contact us */
+    .conh2 {
+      font-size: 45px;
+      font-weight: 700;
+      padding: 20px 0 15px 0;
+    }
+    .conth2 {
+      padding: 30px 0 20px 0;
+    }
+    /* blog start */
+    .blh2 {
+      padding: 0 80px 10px 0;
+    }
+
+ }
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) 
+{
+    .abpra2 {
+        color: aliceblue;
+        padding: 0 100px 75px 100px;
+      }
+      .counter {
+        font-size: 30px;
+        font-weight: 700;
+        background-color: rgb(16, 230, 230) !important;
+      }
+}
+
+
